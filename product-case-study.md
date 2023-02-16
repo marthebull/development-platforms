@@ -130,7 +130,7 @@ Ikke-relasjonelle databaser (feks MongoDB, Cassandra, Redis):
 * Dataene organiseres på forskjellige måter som i dokumenter, nøkkelverdipar, grafer og andre strukturer.
 
 
-### Sammendrag
+## Sammendrag
 
 MySQL er en av verdens mest populære relasjonelle databaser. Den er open source og gratis å bruke. MySQL støtter mange ulike operativsystemer og er en robust, sikker og skalerbar database som brukes av millioner av utviklere og bedrifter over hele verden.
 
